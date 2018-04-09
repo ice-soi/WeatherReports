@@ -1,0 +1,20 @@
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\bin\Release\WeatherReports.exe.config
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\bin\Release\WeatherReports.exe.manifest
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\bin\Release\WeatherReports.application
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\bin\Release\WeatherReports.exe
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\bin\Release\WeatherReports.pdb
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\Simple Styles.baml
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\MainWindow.g.cs
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\App.g.cs
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\GeneratedInternalTypeHelper.g.cs
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\WeatherReports_MarkupCompile.cache
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\WeatherReports_MarkupCompile.lref
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\MainWindow.baml
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\WeatherReports.g.resources
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\WeatherReports.Properties.Resources.resources
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\WeatherReports.csproj.GenerateResource.Cache
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\WeatherReports.exe.manifest
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\WeatherReports.application
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\WeatherReports.exe
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\WeatherReports.pdb
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Release\WeatherReports.csprojResolveAssemblyReference.cache

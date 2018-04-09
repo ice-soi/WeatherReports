@@ -1,0 +1,21 @@
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\bin\Debug\WeatherReports.exe.config
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\bin\Debug\WeatherReports.exe
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\bin\Debug\WeatherReports.pdb
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\WeatherReports.csprojResolveAssemblyReference.cache
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\MainWindow.g.cs
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\App.g.cs
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\WeatherReports_MarkupCompile.cache
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\WeatherReports_MarkupCompile.lref
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\MainWindow.baml
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\WeatherReports.g.resources
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\WeatherReports.Properties.Resources.resources
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\WeatherReports.csproj.GenerateResource.Cache
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\WeatherReports.exe
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\WeatherReports.pdb
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\bin\Debug\DynamicJson.dll
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\Simple Styles.baml
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\bin\Debug\WeatherReports.exe.manifest
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\bin\Debug\WeatherReports.application
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\WeatherReports.exe.manifest
+g:\user\documents\visual studio 2015\Projects\WeatherReports\WeatherReports\obj\Debug\WeatherReports.application
